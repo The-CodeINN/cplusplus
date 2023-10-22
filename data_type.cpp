@@ -46,10 +46,10 @@ int data_type() {
     return 0;
 }
 
-int main() {
-    data_type();
+// int main() {
+//     data_type();
 
-    return 0;
-}
+//     return 0;
+// }
 
 
